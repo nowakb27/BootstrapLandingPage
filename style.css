@@ -1,0 +1,30 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px;
+}
+
+.navbar-expand-md .navbar-nav {
+    margin-top: 10px;
+}
+.text-center {
+    background-color: #003e7a;
+}
+.card-title {
+    font-size: medium;
+    font-weight: bold;
+}
+.card-header {
+    background-color: #003e7a;
+}
+.footer {
+    background-color: rgba(51, 51, 51, 0.79);
+    text-align: center;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
